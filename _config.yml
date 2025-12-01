@@ -70,6 +70,9 @@ footer:
       url: "https://github.com/husaria11"
   since: "2025"
 
+sidebar:
+  nav: "sidebar-nav"
+  sticky: true
 # -----------------------------------------
 # Includes & Excludes
 # -----------------------------------------
